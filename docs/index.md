@@ -1,86 +1,64 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ethan Boley's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Ethan Boley
+A Student with dreams. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/ethan-boley-a8b466284/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021-2025`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
 
 
 ## Related Experience
 
+Classes in data Science and engineering as well as software development in Python, JavaScript, SQL, C#. 
+
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2024 - April 2024`
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+TBD
 
-### Data Science Lead
+### Related class projects
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2023 - July 2023`
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+Member of the Prompt Engineering team for an AI productivity application. 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Related Software Experience
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Pandas
+- NumPy
+- Altair
+- MySQL Server
+- VS Code
+- JetBrains Rider
+- Tableau
+- Excel
+- Git
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`April 2016 - December 2016`
+__Floor Volunteer__, Museum of Natural Curiosity, Thanksgiving Point, UT
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2021`
+__Full Time Missionary__, Southern Oregon
 
 
+`March 2017 - August 2017`
+__State Farm, Event Specialist__, Riverton, UT
 
 <!-- ### Footer
 
