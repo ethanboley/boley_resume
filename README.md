@@ -18,7 +18,7 @@ __Brigham Young University - Idaho__, Rexburg, ID | expected to graduate in 2025
 
 __Lone Peak High School__ Highland, UT | Graduated 2019
 
-## Relevant Course Work
+## Relevant Experience
 
 College classes in the following: 
 - Data science
