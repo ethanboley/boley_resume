@@ -24,7 +24,7 @@ College classes in the following:
 - Data science
 - Data engineering 
 - Python software development 
-- C# dev 
+- C# Language
 - Front end web dev (HTML, CSS, JavaScript)
 - Databases (SQL)
 - Technical teamwork
@@ -72,9 +72,6 @@ Team member of the Procrastinator mobile app development team.
 
 ## Service and Work History
 
-`April 2016 - December 2016`
-__Floor Volunteer__, Museum of Natural Curiosity, Thanksgiving Point, UT
-
 
 `2019-2021`
 __Full Time Missionary__, Southern Oregon
@@ -89,6 +86,6 @@ __State Farm, Event Specialist__, Riverton, UT
 
 ### Footer
 
-Last updated: May 2013
+Last updated: Oct 2023
 
 
