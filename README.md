@@ -1,7 +1,4 @@
----
-layout: cv
-title: Ethan Boley's Resume
----
+
 # Ethan Boley
 
 Cedar Hills, UT | 385-225-5295 | ethboley1@gmail.com
